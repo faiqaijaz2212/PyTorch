@@ -1,1 +1,4 @@
 .venv
+fashion-mnist_train.csv
+fashion-mnist_combined.csv
+fashion-mnist_test.csv
